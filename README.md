@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Husseien Hasanin
+# 👋 Hi, I’m Hussein Hasanin
 
 Welcome to my GitHub! I'm an enthusiastic and detail-oriented Software and Information Systems Engineering student at **Ben-Gurion University**, passionate about solving real-world problems through technology.
 
